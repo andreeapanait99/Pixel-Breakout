@@ -8,6 +8,7 @@ A game inspired by Atari Breakout, using an 8x8 matrix and an Arduino UNO board.
 - LCD display
 - joystick
 - 220 ohm resistor
+- 3 breadboards of various sizes
 - Arduino UNO board
 
 ## Game idea
