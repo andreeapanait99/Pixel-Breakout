@@ -11,7 +11,7 @@ A game inspired by Atari Breakout, using an 8x8 matrix and an Arduino UNO board.
 - Arduino UNO board
 
 ## Game idea
-Pixel Breakout is a game inspired by the classic 70s game Atari Breakout. Similar to Atari Breakout, in Pixel Breakout a layer of bricks lines the top third of the matrix. A ball travels across the matrix, bouncing off the top and side walls. When a brick is hit, it is destroyed. The player loses a life when the ball touches the bottom of the matrix. To prevent this from happening, the player has a movable paddle to bounce the ball upward, keeping it in play.
+Pixel Breakout is a game inspired by the classic 70s game Atari Breakout. Similar to Atari Breakout, in Pixel Breakout a layer of bricks lines the top third of the matrix. A ball travels across the matrix, bouncing off the top and side walls. When a brick is hit, it is destroyed. The player loses a life when the ball touches the bottom of the matrix. To prevent this from happening, the player has a movable paddle which is controlled by a joystick to bounce the ball upward, keeping it in play.
 
 ## Game modes
 Both game modes offer 3 lives.
