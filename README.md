@@ -20,6 +20,6 @@ Both game modes offer 3 lives.
 The player chooses one of the 5 available levels. In order to win, the player has to finish the aforementioned chosen level without losing all 3 lives. If the player loses one of the lives, the game continues on from where it was left.
 
 ### Play all levels mode
-The player has to finish all 5 levels in order to win. If the player loses one of the lives, the game restarts from level 1.
+The player has to finish all 5 levels in order to win. If the player loses one of the lives, the game restarts from level 1. In case of a loss, at the end of the game the LCD will display the maximum level the player has reached.
 
 ## Video
