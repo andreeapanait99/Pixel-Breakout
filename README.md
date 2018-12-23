@@ -2,6 +2,8 @@
 
 A game inspired by Atari Breakout, using an 8x8 matrix and an Arduino UNO board.
 
+![project](https://i.ibb.co/K64RNKF/proiect.jpg)
+
 ## Components
 - 8x8 LED matrix
 - MAX7219 Driver
