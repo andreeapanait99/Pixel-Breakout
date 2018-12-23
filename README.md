@@ -17,10 +17,9 @@ Pixel Breakout is a game inspired by the classic 70s game Atari Breakout. Simila
 Both game modes offer 3 lives.
 
 ### Play one level mode
-The player chooses one of the 5 available levels. In order to win, the player has to finish the aforementioned chosen level without losing all 3 lives. 
-If the player loses one of the lives, the game continues on from where it was left.
+The player chooses one of the 5 available levels. In order to win, the player has to finish the aforementioned chosen level without losing all 3 lives. If the player loses one of the lives, the game continues on from where it was left.
 
 ### Play all levels mode
-The player has to finish all 5 levels in order to win. If the player loses one of the lives, the game restarts from level 1.
+The player has to finish all 5 levels in order to win without losing all 3 lives. If the player loses one of the lives, the game restarts from level 1.
 
 ## Video
