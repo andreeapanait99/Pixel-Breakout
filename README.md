@@ -28,3 +28,4 @@ The player chooses one of the 5 levels. In order to win, the player has to finis
 The player has to finish all 5 levels in order to win. If the player loses one of the lives, the game restarts from level 1. In case of a loss, at the end of the game the LCD will display the maximum level the player has reached.
 
 ## Video
+https://drive.google.com/drive/folders/1rH4DcRMq4X7q3bVZwW7NHFQ3RtG-OeFS
